@@ -1,0 +1,15 @@
+C 0 255 0 // color to green
+S   
+F 250       
+R 144    
+C 255 105 180 // color to pink
+S
+F 250
+R 144
+F 250
+R 144
+F 250
+R 144
+F 250
+S           
+M -50 0     

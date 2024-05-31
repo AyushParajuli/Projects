@@ -1,0 +1,16 @@
+template<typename T, typename retType>
+retType Sum(const T* arr, int  size)
+{
+    retType result = arr[0];
+    for (int i = 1; i < size; ++i) {
+        result += arr[i];    
+    }
+    return result;
+}
+
+just observe this code and
+answer these questions 
+
+1) If we call the function using Sum<Student, double>(...), what global / friend / member functions/operators (for class Student) must exist so the code compiles and executes correctly? Provide their prototype (do not implement any of them).
+2) What if the call is Sum<Student, Student> (...) ? Provide their prototype (do not implement any of them).
+3)Explain why each one is needed.
