@@ -1,0 +1,18 @@
+Workshop 6
+
+/*
+    Name : Ayush Parajuli
+    Student_Id - 165601212
+    email - aparajuli6@myseneca.ca
+    Date - 10 March 2023
+    Note: I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+from workshop 6
+from workshop 6 i learned and used unsigned alot, i understood how to allocate memory and when to allocate memory also same for the deallocation. i debugged in this program alot so i have fair idea about debugging. New thing i learned would be creating an instance of ifstream. Checking up the if stream if it was in good state or not. Also about the operator overload like copy constructor, copy assignment operator and insertion operator, the code shows that these are powerful features that allowes object to behave like built-in types. I also learned about the stream manipulation.
+
+from milestone 1 
+For milestone 1 i have only filled up two files, PosApp.cpp and Pos.h, i dont feel like filling up utils.cpp or utlis.h is necessary as of now. In my code i used while loop in the run function and in menu function, to loop for the infinite number of times. While loop in run fucntion takes the a boolean flag and on the other hand in menu function it takes an conditon. I had some problem using the cin.ignore, at line 56 at first i thought it was not necessary but latter it helped me clear out the buffer. And also i had some problem with the while loop cause my loop broke because when i didnt put cin.ignore in line 56. i also made an one argument constructor, first i used strncpy but it could also have been done by strcpy so i prefered going by strcpy.
+
+Student
+Ayush Parajuli.
